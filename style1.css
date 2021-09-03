@@ -1,0 +1,47 @@
+body{
+margin-top: 0%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.parent-title {
+    position: absolute;
+    top: 0;
+    left: 28%;
+    margin-top: 100px;
+    text-align: center;
+  }
+
+  .parent-title > h1 {
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+
+  .button-base { 
+    width: 33%;
+    padding: 15px;
+    border: none;
+    margin-bottom: 3px;
+    box-sizing: border-box;
+    font-size: 1rem;
+    text-align: center;
+    text-decoration: none;
+      background-color: black;
+    color: white;
+    font-weight: bolder;
+    border: 10px solid white;
+    height: 60px;}
+
+
+    .secondtitle { 
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:30px ;
+    border : black solid 4px;
+    margin-top: 0px;
+    }
+
+   .button-base:hover {color: rgb(252, 16, 193);}
+      
